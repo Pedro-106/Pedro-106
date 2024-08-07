@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->um dia após o outro
-sempre buscando conhecido isso ninguém tira de você
-estudante
+sempre buscando conhecido isso ninguém tira de você use isso ao seu favor
+estudante de cursos digitais
