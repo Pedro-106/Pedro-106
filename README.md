@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Boas vindas ao meu perfil
+Meu nome Pedro Morgado
 <!--
 **Pedro-106/Pedro-106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->um dia após o outro
-sempre buscando conhecido isso ninguém tira de você use isso ao seu favor
-estudante de cursos digitais
+Estou estudando na alura
+Estou me desolvolvendo na linguagem JavaSript
+Utilizo esse espaço para minha organização e compattilhamento dos meus projetos desenvolvidos
